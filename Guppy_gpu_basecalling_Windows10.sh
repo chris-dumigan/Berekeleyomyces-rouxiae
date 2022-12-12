@@ -2,7 +2,7 @@
 #Download Guppy-GPU for Windows 10 from ONT Communtity website
 
 #Cuda-11 Download
-If you don’t already have, you will get a prompt to install virtual studio -do this as it is required for Cuda-11
+#If you don’t already have, you will get a prompt to install virtual studio -do this as it is required for Cuda-11
 
 #https://developer.nvidia.com/cuda-11.0-download-archive
 
